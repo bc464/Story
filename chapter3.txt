@@ -1,1 +1,2 @@
-this is the third chapter  in this vry new book
+this is the third chapter  in this very new book
+changes to test branching and merging during the course
